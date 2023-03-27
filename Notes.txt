@@ -1,0 +1,7 @@
+Identify core concepts -> 21
+Bounded Contexts and Ubiquitous Language -> 25
+DEvelopers focus on nouns -> 35
+The model is the code -> 36
+Unbounded legacy systems -> 48
+Bounded Context per Subdomain -> 49
+Failure Event Store Design -> 109
